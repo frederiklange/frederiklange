@@ -2,7 +2,7 @@
 
 **`Political scientist turned data scientist`**
 
-I am a political scientist with a specialization in political behavior and advanced quantitative methods. Throughout my studies, I developed a keen interest in data science, particularly focusing on machine learning and natural language processing. Over the past three years, I have been employed at the Danish Ministry of Finance, where I have been responsible for preparing decision-making papers and analyses for the government on complex policy issues. However, starting September 2024, I will be pursuing my passion for data science by enrolling in a master's degree program to further enhance my skills in the field.
+I am a political scientist with specialization in political behavior and advanced quantitative methods. Throughout my studies, I developed a keen interest in data science, particularly focusing on machine learning and natural language processing. Over the past three years, I have been employed at the Danish Ministry of Finance, where I have been responsible for preparing decision-making papers and analyses for the government on complex policy issues. However, starting September 2024, I will be pursuing my passion for data science by enrolling in a master's degree program to further enhance my skills in the field.
 
 ---
 
